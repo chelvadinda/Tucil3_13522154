@@ -6,7 +6,7 @@
 * [Identitas Pembuat](#identitas-pembuat)
 
 ## Deskripsi Program
-    Program ini berfungsi untuk mendapatkan solusi dari sebuah permainan word ladder dengan algoritma UCS, Greedy Best First Search, dan A*.
+Program ini berfungsi untuk mendapatkan solusi dari sebuah permainan word ladder dengan algoritma UCS, Greedy Best First Search, dan A*.
 
 
 ## Cara menjalankan program
@@ -16,7 +16,7 @@
 git clone https://github.com/chelvadinda/Tucil3_13522154.git
 ```
 3. Buka terminal dan arahkan ke direktori tempat menyimpan repository.
-4. run di `main.go`
+4. run di src `main.java`
 
 ## Identitas Pembuat
     Chelvadinda
