@@ -2,8 +2,8 @@
 
 ## Table of Contents
 * [Deskripsi Program](#deskripsi-program)
-* [Cara menjalankan program](#used)
-* [Identitas Pembuat](#authors)
+* [Cara menjalankan program](#cara-menjalankan-program)
+* [Identitas Pembuat](#identitas-pembuat)
 
 ## Deskripsi Program
     Program ini berfungsi untuk mendapatkan solusi dari sebuah permainan word ladder dengan algoritma UCS, Greedy Best First Search, dan A*.
